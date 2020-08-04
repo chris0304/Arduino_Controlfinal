@@ -1,0 +1,10 @@
+D:\gedo\NET\Form_control_Move\Form_control_Move\bin\Debug\Form_control_Move.exe
+D:\gedo\NET\Form_control_Move\Form_control_Move\bin\Debug\Form_control_Move.pdb
+D:\gedo\NET\Form_control_Move\Form_control_Move\bin\Debug\Form_control_Move.xml
+D:\gedo\NET\Form_control_Move\Form_control_Move\obj\Debug\ResolveAssemblyReference.cache
+D:\gedo\NET\Form_control_Move\Form_control_Move\obj\Debug\Form_control_Move.Form1.resources
+D:\gedo\NET\Form_control_Move\Form_control_Move\obj\Debug\Form_control_Move.Resources.resources
+D:\gedo\NET\Form_control_Move\Form_control_Move\obj\Debug\Form_control_Move.vbproj.GenerateResource.Cache
+D:\gedo\NET\Form_control_Move\Form_control_Move\obj\Debug\Form_control_Move.exe
+D:\gedo\NET\Form_control_Move\Form_control_Move\obj\Debug\Form_control_Move.xml
+D:\gedo\NET\Form_control_Move\Form_control_Move\obj\Debug\Form_control_Move.pdb

@@ -1,0 +1,9 @@
+C:\Users\akin\Downloads\Form_control_Move\Form_control_Move\Form_control_Move\obj\Debug\Form_control_Move.exe
+C:\Users\akin\Downloads\Form_control_Move\Form_control_Move\Form_control_Move\obj\Debug\Form_control_Move.xml
+C:\Users\akin\Downloads\Form_control_Move\Form_control_Move\Form_control_Move\obj\Debug\Form_control_Move.pdb
+C:\Users\akin\Downloads\Form_control_Move\Form_control_Move\Form_control_Move\bin\Debug\Form_control_Move.exe
+C:\Users\akin\Downloads\Form_control_Move\Form_control_Move\Form_control_Move\bin\Debug\Form_control_Move.pdb
+C:\Users\akin\Downloads\Form_control_Move\Form_control_Move\Form_control_Move\bin\Debug\Form_control_Move.xml
+C:\Users\akin\Downloads\Form_control_Move\Form_control_Move\Form_control_Move\obj\Debug\Form_control_Move.Form1.resources
+C:\Users\akin\Downloads\Form_control_Move\Form_control_Move\Form_control_Move\obj\Debug\Form_control_Move.Resources.resources
+C:\Users\akin\Downloads\Form_control_Move\Form_control_Move\Form_control_Move\obj\Debug\Form_control_Move.vbproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+C:\Users\akin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\akin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\akin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\akin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\akin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\akin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\akin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Arduino_Control2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Arduino_Control2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Arduino_Control2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Arduino_Control2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Arduino_Control2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Arduino_Control2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Arduino_Control2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
